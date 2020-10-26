@@ -2,7 +2,7 @@
 
 ---
 
-## I'm Shuvam Kumar, an artist painting the big picture! 
+## I'm Shuvam Kumar, and this is the portrait of dr. gachet in my display picture! 
 
 - I'm looking forward to learn great things.
 - There are already many answers, I am looking for questions.
