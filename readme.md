@@ -42,7 +42,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shuvamk's GitHub Stats" src="https://github-readme-stats.shuvamk.vercel.app/api?username=shuvamk&show_icons=true&hide_border=true" />
+  <!-- <img align="left" alt="shuvamk's GitHub Stats" src="https://github-readme-stats.shuvamk.vercel.app/api?username=shuvamk&show_icons=true&hide_border=true" /> -->
+  [![Shuvam's github stats](https://github-readme-stats.vercel.app/api?username=shuvamk)](https://github.com/shuvamk/github-readme-stats)
 
 </details>
 
