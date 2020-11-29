@@ -39,6 +39,6 @@
 
 
 [twitter]: https://twitter.com/shuvamk564991
-[instagram]: https://instagram.com/kshuvam_
+[instagram]: https://instagram.com/becomingsushi_chef
 [linkedin]: https://www.linkedin.com/in/shuvam-kumar-09512a168/
 
